@@ -1,0 +1,1 @@
+class TeamLeader(val id: String, val name: String, val location: String)
